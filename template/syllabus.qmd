@@ -1,0 +1,26 @@
+# Syllabus
+
+## Intended learners
+
+Learners beginning a reproducible technical workflow. This example assumes
+basic arithmetic and no programming knowledge.
+
+## Observable outcomes
+
+By the end of the example session, learners can identify a source fixture,
+calculate a result, and explain how to update the record after changing inputs.
+
+## Session plan
+
+| Activity | Minutes | Evidence of learning |
+|---|---:|---|
+| Discuss source versus result | 5 | Correctly identify each |
+| Follow the worked example | 10 | Reproduce the stated mean |
+| Complete the exercise | 10 | Submit calculation and short record |
+| Compare and reflect | 5 | Explain what changed and why |
+
+## Assessment
+
+Use the practice rubric to give feedback. This starter defines no institutional
+grades, credits or certification. Add those only when the relevant requirements
+are known. Provide an accessible alternative to any software-dependent activity.

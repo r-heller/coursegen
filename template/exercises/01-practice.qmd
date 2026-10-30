@@ -1,0 +1,18 @@
+# Practice: Revise the record
+
+Use the explicitly synthetic observations 1, 2 and 6.
+
+1. Calculate the mean and show your calculation.
+2. Write a short evidence record identifying the inputs and result.
+3. Explain how this record differs from the worked example.
+
+## Feedback rubric
+
+| Criterion | Complete evidence |
+|---|---|
+| Calculation | Inputs, sum, denominator and result are correct |
+| Reproducibility | Another learner can repeat the calculation |
+| Interpretation | Changes are described without claims about a real population |
+
+Submit only the requested exercise artifact. Do not include personal or
+confidential data in public course repositories.

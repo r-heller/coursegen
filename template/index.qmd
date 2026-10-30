@@ -1,0 +1,13 @@
+# Welcome
+
+This course template standardizes learning objectives, prerequisites, session
+structure, practice, assessment and instructor notes. Replace the demonstration
+with your own reviewed teaching material.
+
+Start with the [syllabus](syllabus.qmd), work through the
+[example lesson](lessons/01-evidence.qmd), and complete the
+[practice task](exercises/01-practice.qmd).
+
+The demonstration uses synthetic values and requires no software beyond a
+browser or a text editor. State the actual prerequisites of your own course
+before distributing it.

@@ -1,0 +1,12 @@
+{
+  "project": {"type": "website", "output-dir": "_site", "render": ["index.qmd", "syllabus.qmd", "lessons/*.qmd", "exercises/*.qmd"]},
+  "website": {
+    "title": "Example Course",
+    "navbar": {"left": [{"href": "index.qmd", "text": "Start"}, {"href": "syllabus.qmd", "text": "Syllabus"}, {"href": "lessons/01-evidence.qmd", "text": "Lesson"}, {"href": "exercises/01-practice.qmd", "text": "Practice"}]},
+    "search": true
+  },
+  "author": "R. Heller",
+  "lang": "en",
+  "format": {"html": {"theme": {"light": "cosmo", "dark": "darkly"}, "toc": true, "code-copy": true}},
+  "execute": {"error": false, "warning": true}
+}

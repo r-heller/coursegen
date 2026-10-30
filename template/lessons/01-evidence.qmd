@@ -1,0 +1,17 @@
+# Lesson 1: Keeping an evidence trail
+
+## Goal
+
+Keep source values, calculation and interpretation consistent.
+
+## Worked example
+
+For the synthetic values 1, 2 and 3, the mean is `(1 + 2 + 3) / 3 = 2`.
+An evidence record contains the three inputs, the calculation, the result, and
+the date or version of the example. If software is used, add its version and
+the command or source file needed to reproduce the calculation.
+
+## Check your understanding
+
+Explain why a screenshot of the result alone does not identify its inputs.
+Then continue to the [practice task](../exercises/01-practice.qmd).
